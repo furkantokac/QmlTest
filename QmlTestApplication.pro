@@ -4,3 +4,4 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp
 RESOURCES += qml.qrc
+QTPLUGIN.platforms += qeglfs qxcb qlinuxfb

@@ -5,7 +5,7 @@ Window {
         visible: true
         width: 630
         height: 480
-        title: qsTr("Hello World")
+        title: qsTr("SA World!")
 
         Image {
                 id: arrowImage
